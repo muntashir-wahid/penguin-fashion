@@ -3,4 +3,29 @@
 
 body {
   font-family: "Roboto", sans-serif;
+  color: #3e3e3e;
+}
+
+.bg-penguin-facion {
+  background-color: #fff9f4;
+}
+
+.pengin-logo {
+  height: 1.5rem;
+}
+
+.brand-color {
+  color: #fa804c;
+}
+
+.brand-secondery-color {
+  color: #363958;
+}
+
+.cart-logo {
+  height: 1.12rem;
+}
+
+.bg-penguin-btn {
+  background-color: #3d4ff3;
 }
